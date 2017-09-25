@@ -1,0 +1,10 @@
+2014/10/04
+
+Projeto Orientado a Objetos: Progressoes.
+
+Para realizar o seu projeto orientado a objetos:
+1. faça a análise, com os conhecimentos aprendidos em INF318.
+2. Insira as classes: pelo menos os atributos e métodos mais importantes
+de sua abastração
+3. faça o commit.
+
